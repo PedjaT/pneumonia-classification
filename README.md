@@ -1,5 +1,5 @@
 # Pneumonia Classification using Transfer Learning
-In this project, [Xception]:(https://arxiv.org/abs/1610.02357) model is retrained to predict if patient has Pneumonia based on corresponding chest x ray. Dataset used for training and testing is from [this]:(https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia) Kaggle link. 
+In this project, [Xception](https://arxiv.org/abs/1610.02357) model is retrained to predict if patient has Pneumonia based on corresponding chest x ray. Dataset used for training and testing is from [this](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia) Kaggle link. 
 Motivation
 Even after I read a few guides on how to detect Pneumonia, I wasnt able to predict if patient has Pneumonia for majority of x ray images. My motivation was to make a Transfer Learning model that will much classify better than I can.
 
