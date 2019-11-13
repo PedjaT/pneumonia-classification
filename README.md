@@ -6,6 +6,7 @@ Even after I read a few guides on how to detect Pneumonia, I wasnt able to predi
 
 ## Data
 Training set contains 5216 images. 1345 labeled with NORMAL, and 3875 labeled with PNEUMONIA.
+
 Test set contains 624 images. 234 labeled with NORMAL, and 390 labeled with PNEUMONIA.
 
 Images below are examples of healthy  lungs (left), and Pneumonia (right).
