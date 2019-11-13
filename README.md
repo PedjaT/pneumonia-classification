@@ -3,4 +3,4 @@ In this project, [Xception]:(https://arxiv.org/abs/1610.02357) model is retraine
 Motivation
 Even after I read a few guides on how to detect Pneumonia, I wasnt able to predict if patient has Pneumonia for majority of x ray images. My motivation was to make a Transfer Learning model that will much classify better than I can.
 
-<img src="https://user-images.githubusercontent.com/43140432/68776245-10e71d00-0630-11ea-900a-ad4298bcc6f1.jpeg" alt="Healhy lungs" width="250" height="250"> <img src="https://user-images.githubusercontent.com/43140432/68777668-5573b800-0632-11ea-8743-50f191dd48dd.jpeg" alt="Pneumonia" width="250" height="250">
+<img src="https://user-images.githubusercontent.com/43140432/68776245-10e71d00-0630-11ea-900a-ad4298bcc6f1.jpeg" alt="Healhy lungs" width="250" height="250"> <img src="https://user-images.githubusercontent.com/43140432/68778091-f498af80-0632-11ea-9a8e-e6ed1c926f6a.jpeg" alt="Pneumonia" width="250" height="250">
