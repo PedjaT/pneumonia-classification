@@ -4,5 +4,6 @@ Motivation
 Even after I read a few guides on how to detect Pneumonia, I wasnt able to predict if patient has Pneumonia for majority of x ray images. My motivation was to make a Transfer Learning model that will much classify better than I can.
 
 ![Healthy pungs](https://user-images.githubusercontent.com/43140432/68776245-10e71d00-0630-11ea-900a-ad4298bcc6f1.jpeg =250x250 "Healthy lungs" )
+<img src="https://user-images.githubusercontent.com/43140432/68776245-10e71d00-0630-11ea-900a-ad4298bcc6f1.jpeg" width="200" height="250">
 
 ![Pneumonia](https://user-images.githubusercontent.com/43140432/68776199-fc0a8980-062f-11ea-876c-4379b5b74aee.jpeg =250x250 "Pneumonia" )
