@@ -11,7 +11,7 @@ Test set contains 624 images. 234 labeled with NORMAL, and 390 labeled with PNEU
 
 Images below are examples of healthy lungs (left), and Pneumonia (right).
 
-<img src="https://user-images.githubusercontent.com/43140432/68776245-10e71d00-0630-11ea-900a-ad4298bcc6f1.jpeg" title="Healhy lungs" width="250" height="250"> <img src="https://user-images.githubusercontent.com/43140432/68778091-f498af80-0632-11ea-9a8e-e6ed1c926f6a.jpeg" title="Pneumonia" width="250" height="250">
+<img src="https://user-images.githubusercontent.com/43140432/68776245-10e71d00-0630-11ea-900a-ad4298bcc6f1.jpeg" title="Healthy lungs" width="250" height="250"> <img src="https://user-images.githubusercontent.com/43140432/68778091-f498af80-0632-11ea-9a8e-e6ed1c926f6a.jpeg" title="Pneumonia" width="250" height="250">
 
 ## Model
 I have chosen Xception model for Transfer Learning because it had great results on Imagenet dataset. I added one Dense layer with two nodes (for two classes) on top of Xception model. This layer was trained together with the last retrain_layers (parameter) layers of the Xception network. I trained this model on my NVIDIA GeForce MX150 GPU. 
